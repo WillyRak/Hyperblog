@@ -8,6 +8,6 @@ git status - muestra el estado de los archivos dentro del repositorio
 git show - muestra el ultimo commit y los cambios en él (?)
 git log - muestra el historial de cambios por commit
 git diff - muestra los cambios entre dos commits o el ultimo commit y el estado actual
-git reset - devuelve los archivos al estado del commit indicado (--hard resetea completamente al commit indicado --soft resetea el commit pero el staging conserva las modificaciones actuales)
+git reset - devuelve los archivos al estado del commit indicado. Utlizar solo en caso de emergencia (--hard resetea completamente al commit indicado --soft resetea el commit pero el staging conserva las modificaciones actuales HEAD borra los cambios del staging)
 git checkout - devuelve un archivo al estado del commit especificado
-
+git rm - elimina archivos sin eliminar su historial del sistema de versiones (--cached lo pone en estado de untracked --force elimina los archivos de Git y del disco duro)
