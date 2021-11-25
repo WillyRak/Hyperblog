@@ -6,4 +6,8 @@ Es un ejemplo para el curso de Git
 
 Esto es una modificacion del archivo
 
+Cambio cambios cambios
+No se que poner a parte de que son cambios
+Mas cambios
+
 Adios
