@@ -1,0 +1,13 @@
+Git y Github
+
+Commands:
+git init - inicializa el repositorio
+git add - añade archivos modificados al staging
+git commit - añade los archivos modificados del staging al repositorio
+git status - muestra el estado de los archivos dentro del repositorio
+git show - muestra el ultimo commit y los cambios en él (?)
+git log - muestra el historial de cambios por commit
+git diff - muestra los cambios entre dos commits o el ultimo commit y el estado actual
+git reset - devuelve los archivos al estado del commit indicado (--hard resetea completamente al commit indicado --soft resetea el commit pero el staging conserva las modificaciones actuales)
+git checkout - devuelve un archivo al estado del commit especificado
+
