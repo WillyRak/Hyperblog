@@ -4,4 +4,6 @@ Este archivo es de texto plano
 Luego se haran unas modificaciones
 Es un ejemplo para el curso de Git
 
+Esto es una modificacion del archivo
+
 Adios
