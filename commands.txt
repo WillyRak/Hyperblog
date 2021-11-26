@@ -15,5 +15,12 @@ git branch - muestra las ramas existentes
 git merge - fusion de 2 ramas (se fusiona a la rama en la que se ejecuta el comando) es un commit a la rama
 git remote add origin - agregar un origen remoto (repositorio en Github)
 git push origin master - enviar rama master a origin
+git pull origin master --allow-unrelated-histories
+
+Crear llave SSH:
+ssh-keygen -t rsa -b 4096 -C "ejemplo@email.com"
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+
 
 
