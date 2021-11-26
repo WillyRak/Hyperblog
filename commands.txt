@@ -17,6 +17,7 @@ git remote add origin - agregar un origen remoto (repositorio en Github)
 git push origin master - enviar rama master a origin
 git pull origin master --allow-unrelated-histories
 git tag - creacion de un tag
+git show-branch --all
 
 
 
