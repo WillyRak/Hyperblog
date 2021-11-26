@@ -28,6 +28,10 @@ body{
     font-size: 0.8em;
 }
 
+#post{
+    color:black;
+}
+
 #container h1{
     font-size: 20px;
 }
