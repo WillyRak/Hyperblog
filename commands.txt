@@ -16,6 +16,9 @@ git merge - fusion de 2 ramas (se fusiona a la rama en la que se ejecuta el coma
 git remote add origin - agregar un origen remoto (repositorio en Github)
 git push origin master - enviar rama master a origin
 git pull origin master --allow-unrelated-histories
+git tag - creacion de un tag
+
+
 
 Crear llave SSH:
 ssh-keygen -t rsa -b 4096 -C "ejemplo@email.com"
